@@ -7,3 +7,4 @@ data structure in python
 ### 3.queens,queen 递归回溯和非递归回溯实现
 ### 4.target offer 第一二章（untitled ipynb）
 ### 5.testpy recursive
+### 6.singleton 四种方法实现单例模式
